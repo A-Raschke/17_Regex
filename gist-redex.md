@@ -73,7 +73,7 @@ Used to match a specific character
 For example \* would represent an asterisk,
 ```
 
-<script src="https://gist.github.com/A-Raschke/fb1aa0820204c3b2d1a1ec410605eeb9.js"></script>
+https://gist.github.com/A-Raschke/fb1aa0820204c3b2d1a1ec410605eeb9
 
 ## Author
 
